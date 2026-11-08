@@ -5,5 +5,5 @@ window.PROFILE = {
   email: "sanjiv.aaryan@gmail.com",
   linkedin: "https://www.linkedin.com/in/sanjeeva-reddy-n-39590b184/", // full https:// URL
   calendar: "", // optional https:// link
-  resume: "" // optional, e.g. "resume.pdf"
+  resume: "OpentextLead - Tx.docx" // optional, e.g. "resume.pdf"
 };
